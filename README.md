@@ -6,7 +6,7 @@
 > Rust migration, and full cross-platform support (Windows, macOS, Linux X11,
 > Linux Wayland). This README will be updated as the project matures.
 >
-> Track progress: [Project Charter](docs/PROJECT_CHARTER.md) &nbsp;·&nbsp;
+> Track progress: [Project Charter](doc/PROJECT_CHARTER.md) &nbsp;·&nbsp;
 > [Issues](https://github.com/digital-michael/seamgate/issues) &nbsp;·&nbsp;
 > [Upstream: Input Leap](https://github.com/input-leap/input-leap)
 
